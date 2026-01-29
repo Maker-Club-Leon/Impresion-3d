@@ -53,6 +53,6 @@ Este trabajo está bajo una <a rel="license" href="http://creativecommons.org/li
 Esto significa que puedes usar, imprimir y remixar nuestros diseños, siempre que:
 1.  Cites al **Maker Club León**.
 2.  Si modificas el diseño, lo compartas bajo esta misma licencia.
-  <a href="#">Thingiverse (Pronto)</a> • 
+  <a href="#">Maker Wold (Pronto)</a> • 
   <a href="#">Printables (Pronto)</a>
 </p>
