@@ -2,8 +2,8 @@
 
 <p align="center">
   <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="Assets/logo-dark.png">
-    <source media="(prefers-color-scheme: light)" srcset="Assets/logo-light.png">
+    <source media="(prefers-color-scheme: dark)" srcset="Assets/logo-light.png">
+    <source media="(prefers-color-scheme: light)" srcset="Assets/logo-dark.png">
     <img alt="Logo Maker Club León" src="assets/logo-light.svg" width="300">
   </picture>
 </p>
