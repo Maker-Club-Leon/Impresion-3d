@@ -1,4 +1,4 @@
-# 🦁 Miscelánea 3D - Maker Club León
+# Miscelánea 3D - Maker Club León
 
 <p align="center">
   <img src="assets/logo.svg" alt="Logo Maker Club León" width="300">
@@ -6,7 +6,7 @@
 
 [![Estado](https://img.shields.io/badge/Estado-Activo-green)]()
 [![Licencia](https://img.shields.io/badge/Licencia-CC%20BY--SA%204.0-blue)](LICENSE)
-[![ULE](https://img.shields.io/badge/Vinculado-Universidad%20de%20León-red)](https://www.unileon.es)
+[![ULE](https://img.shields.io/badge/Vinculado-Universidad%20de%20León-red)](https://www.makerclubleon.es)
 
 ## 📖 Sobre este repositorio
 
@@ -24,6 +24,7 @@ Para facilitar la búsqueda, organizamos los archivos STL (y sus fuentes) en las
 | ⚙️ `/Repuestos` | Piezas de sustitución para máquinas, electrodomésticos o mobiliario. |
 | 🖨️ `/Impresoras_3D` | Upgrades y mods para impresoras (Ender, Prusa, Voron, etc.). |
 | 🎨 `/Decoracion` | Figuras, llaveros, merchandising y elementos estéticos. |
+| 🎨 `/Assets` | Fotografias o assets para el proyecto. |
 
 ## 🖨️ Recomendaciones Generales
 
