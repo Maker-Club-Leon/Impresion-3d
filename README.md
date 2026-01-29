@@ -1,7 +1,11 @@
 # Miscelánea 3D - Maker Club León
 
 <p align="center">
-  <img src="Assets/Logo.png" alt="Logo Maker Club León" width="300">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="assets/logo-dark.png">
+    <source media="(prefers-color-scheme: light)" srcset="assets/logo-light.png">
+    <img alt="Logo Maker Club León" src="assets/logo-light.svg" width="300">
+  </picture>
 </p>
 
 [![Estado](https://img.shields.io/badge/Estado-Activo-green)]()
