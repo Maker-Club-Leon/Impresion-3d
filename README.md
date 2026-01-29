@@ -6,7 +6,7 @@
 
 [![Estado](https://img.shields.io/badge/Estado-Activo-green)]()
 [![Licencia](https://img.shields.io/badge/Licencia-CC%20BY--SA%204.0-blue)](LICENSE)
-[![Web](https://img.shields.io/badge/Web-makerclubleon.es-orange)](https://www.makerclubleon.es)
+[![Web](https://img.shields.io/badge/Web-MakerClubLeon-orange)](https://www.makerclubleon.es)
 
 ## 📖 Sobre este repositorio
 
@@ -57,7 +57,7 @@ Esto significa que puedes usar, imprimir y remixar nuestros diseños, siempre qu
 
 ---
 <p align="center">
-  Hecho con ❤️ y mucho filamento en León.
+  Hecho con cariño y mucho filamento.
   <br>
   <a href="https://www.makerclubleon.es">www.makerclubleon.es</a> • <a href="https://www.makerclubleon.com">www.makerclubleon.com</a>
   <br>
