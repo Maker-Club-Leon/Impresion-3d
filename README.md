@@ -1,4 +1,4 @@
-# Miscelánea 3D - Maker Club León
+# 🦁 Miscelánea 3D - Maker Club León
 
 <p align="center">
   <img src="assets/logo.svg" alt="Logo Maker Club León" width="300">
@@ -6,11 +6,11 @@
 
 [![Estado](https://img.shields.io/badge/Estado-Activo-green)]()
 [![Licencia](https://img.shields.io/badge/Licencia-CC%20BY--SA%204.0-blue)](LICENSE)
-[![ULE](https://img.shields.io/badge/Vinculado-Universidad%20de%20León-red)](https://www.makerclubleon.es)
+[![Web](https://img.shields.io/badge/Web-makerclubleon.es-orange)](https://www.makerclubleon.es)
 
 ## 📖 Sobre este repositorio
 
-¡Bienvenidos al repositorio de diseños 3D del **Maker Club León**!
+¡Bienvenidos al repositorio de diseños 3D del **Maker Club León** (Asociación ligada a la Universidad de León)!
 
 Este repositorio actúa como nuestro "cajón de sastre" oficial. Aquí centralizamos diseños, modificaciones (remixes), herramientas y piezas de repuesto creados por nuestros miembros que no forman parte de un proyecto principal, pero que queremos compartir con la comunidad.
 
@@ -24,7 +24,7 @@ Para facilitar la búsqueda, organizamos los archivos STL (y sus fuentes) en las
 | ⚙️ `/Repuestos` | Piezas de sustitución para máquinas, electrodomésticos o mobiliario. |
 | 🖨️ `/Impresoras_3D` | Upgrades y mods para impresoras (Ender, Prusa, Voron, etc.). |
 | 🎨 `/Decoracion` | Figuras, llaveros, merchandising y elementos estéticos. |
-| 🎨 `/Assets` | Fotografias o assets para el proyecto. |
+| 📷 `/Assets` | Fotografías o assets gráficos para el proyecto. |
 
 ## 🖨️ Recomendaciones Generales
 
@@ -54,6 +54,15 @@ Este trabajo está bajo una <a rel="license" href="http://creativecommons.org/li
 Esto significa que puedes usar, imprimir y remixar nuestros diseños, siempre que:
 1.  Cites al **Maker Club León**.
 2.  Si modificas el diseño, lo compartas bajo esta misma licencia.
-  <a href="#">Maker Wold (Pronto)</a> • 
-  <a href="#">Printables (Pronto)</a>
+
+---
+<p align="center">
+  Hecho con ❤️ y mucho filamento en León.
+  <br>
+  <a href="https://www.makerclubleon.es">www.makerclubleon.es</a> • <a href="https://www.makerclubleon.com">www.makerclubleon.com</a>
+  <br>
+  <br>
+  Encuéntranos pronto en:
+  <br>
+  <a href="#">MakerWorld</a> • <a href="#">Printables</a>
 </p>
